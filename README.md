@@ -3,7 +3,7 @@
  <div>
    <a href="https://github.com/JoaoDiogo1">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoDiogo1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDiogo1&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDiogo1&layout=compact&langs_count=6&theme=dracula"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -13,8 +13,6 @@
 </div>
  
  <br>
- 
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
   
